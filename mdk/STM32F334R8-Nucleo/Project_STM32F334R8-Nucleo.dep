@@ -1,0 +1,200 @@
+Dependencies for Project 'Project', Target 'STM32F334R8-Nucleo': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::.\ARMCC
+F (..\code\stm32f3xx_it.c)(0x5F9BDEEA)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\code -I ..\sql -I ..\startup --C99-I.\RTE\_STM32F334R8-Nucleo-IC:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\22060\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32F334x8 -D_RTE_ -DSTM32F334x8 -DUSE_STM32F3XX_NUCLEO-o stm32f334r8-nucleo\stm32f3xx_it.o --omf_browse stm32f334r8-nucleo\stm32f3xx_it.crf --depend stm32f334r8-nucleo\stm32f3xx_it.d)
+I (..\code\stm32f3xx_it.h)(0x5F9BDEFE)
+I (..\sql\stm32f3xx_ll_bus.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f334x8.h)(0x5D7FBE25)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\sql\system_stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_rcc.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_system.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_utils.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_cortex.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_gpio.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_exti.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_usart.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_pwr.h)(0x5D7FBE25)
+I (..\code\usart.h)(0x5F9BDC7D)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5EC77604)
+F (..\code\usart.c)(0x5F9BDC5F)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\code -I ..\sql -I ..\startup --C99-I.\RTE\_STM32F334R8-Nucleo-IC:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\22060\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32F334x8 -D_RTE_ -DSTM32F334x8 -DUSE_STM32F3XX_NUCLEO-o stm32f334r8-nucleo\usart.o --omf_browse stm32f334r8-nucleo\usart.crf --depend stm32f334r8-nucleo\usart.d)
+I (..\code\usart.h)(0x5F9BDC7D)
+I (..\sql\stm32f3xx_ll_bus.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f334x8.h)(0x5D7FBE25)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\sql\system_stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_rcc.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_system.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_utils.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_cortex.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_gpio.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_exti.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_usart.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_pwr.h)(0x5D7FBE25)
+F (..\code\mian.c)(0x5F9C1F86)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\code -I ..\sql -I ..\startup --C99-I.\RTE\_STM32F334R8-Nucleo-IC:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\22060\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32F334x8 -D_RTE_ -DSTM32F334x8 -DUSE_STM32F3XX_NUCLEO-o stm32f334r8-nucleo\mian.o --omf_browse stm32f334r8-nucleo\mian.crf --depend stm32f334r8-nucleo\mian.d)
+I (..\code\usart.h)(0x5F9BDC7D)
+I (..\sql\stm32f3xx_ll_bus.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f334x8.h)(0x5D7FBE25)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\sql\system_stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_rcc.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_system.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_utils.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_cortex.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_gpio.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_exti.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_usart.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_pwr.h)(0x5D7FBE25)
+I (..\code\L610_init.h)(0x5F9C0296)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5EC77604)
+I (..\code\L610_TCP.h)(0x5F8DAC9F)
+I (..\code\stm32f3xx_it.h)(0x5F9BDEFE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5EC775FC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5EC775FC)
+I (..\code\L610_Ali.h)(0x5F9C1F80)
+I (..\code\ESP8266.h)(0x5F9C02F2)
+F (..\code\L610_init.c)(0x5F92E552)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\code -I ..\sql -I ..\startup --C99-I.\RTE\_STM32F334R8-Nucleo-IC:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\22060\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32F334x8 -D_RTE_ -DSTM32F334x8 -DUSE_STM32F3XX_NUCLEO-o stm32f334r8-nucleo\l610_init.o --omf_browse stm32f334r8-nucleo\l610_init.crf --depend stm32f334r8-nucleo\l610_init.d)
+I (..\code\L610_init.h)(0x5F9C0296)
+I (..\code\usart.h)(0x5F9BDC7D)
+I (..\sql\stm32f3xx_ll_bus.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f334x8.h)(0x5D7FBE25)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\sql\system_stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_rcc.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_system.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_utils.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_cortex.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_gpio.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_exti.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_usart.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_pwr.h)(0x5D7FBE25)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5EC77604)
+I (..\code\L610_TCP.h)(0x5F8DAC9F)
+I (..\code\stm32f3xx_it.h)(0x5F9BDEFE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5EC775FC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5EC775FC)
+I (..\code\L610_Ali.h)(0x5F9C1F80)
+F (..\code\L610_TCP.c)(0x5F9549B6)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\code -I ..\sql -I ..\startup --C99-I.\RTE\_STM32F334R8-Nucleo-IC:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\22060\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32F334x8 -D_RTE_ -DSTM32F334x8 -DUSE_STM32F3XX_NUCLEO-o stm32f334r8-nucleo\l610_tcp.o --omf_browse stm32f334r8-nucleo\l610_tcp.crf --depend stm32f334r8-nucleo\l610_tcp.d)
+I (..\code\L610_TCP.h)(0x5F8DAC9F)
+I (..\code\usart.h)(0x5F9BDC7D)
+I (..\sql\stm32f3xx_ll_bus.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f334x8.h)(0x5D7FBE25)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\sql\system_stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_rcc.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_system.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_utils.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_cortex.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_gpio.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_exti.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_usart.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_pwr.h)(0x5D7FBE25)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5EC77604)
+I (..\code\L610_init.h)(0x5F9C0296)
+I (..\code\stm32f3xx_it.h)(0x5F9BDEFE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5EC775FC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5EC775FC)
+I (..\code\L610_Ali.h)(0x5F9C1F80)
+F (..\code\L610_Ali.c)(0x5F9C1F73)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\code -I ..\sql -I ..\startup --C99-I.\RTE\_STM32F334R8-Nucleo-IC:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\22060\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32F334x8 -D_RTE_ -DSTM32F334x8 -DUSE_STM32F3XX_NUCLEO-o stm32f334r8-nucleo\l610_ali.o --omf_browse stm32f334r8-nucleo\l610_ali.crf --depend stm32f334r8-nucleo\l610_ali.d)
+I (..\code\L610_Ali.h)(0x5F9C1F80)
+I (..\code\L610_init.h)(0x5F9C0296)
+I (..\code\usart.h)(0x5F9BDC7D)
+I (..\sql\stm32f3xx_ll_bus.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f334x8.h)(0x5D7FBE25)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\sql\system_stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_rcc.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_system.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_utils.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_cortex.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_gpio.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_exti.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_usart.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_pwr.h)(0x5D7FBE25)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5EC77604)
+I (..\code\L610_TCP.h)(0x5F8DAC9F)
+I (..\code\stm32f3xx_it.h)(0x5F9BDEFE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5EC775FC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5EC775FC)
+F (..\code\ESP8266.c)(0x5F9C0A7A)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\code -I ..\sql -I ..\startup --C99-I.\RTE\_STM32F334R8-Nucleo-IC:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\22060\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32F334x8 -D_RTE_ -DSTM32F334x8 -DUSE_STM32F3XX_NUCLEO-o stm32f334r8-nucleo\esp8266.o --omf_browse stm32f334r8-nucleo\esp8266.crf --depend stm32f334r8-nucleo\esp8266.d)
+I (..\code\ESP8266.h)(0x5F9C02F2)
+I (..\code\L610_init.h)(0x5F9C0296)
+I (..\code\usart.h)(0x5F9BDC7D)
+I (..\sql\stm32f3xx_ll_bus.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f334x8.h)(0x5D7FBE25)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\sql\system_stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_rcc.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_system.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_utils.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_cortex.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_gpio.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_exti.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_usart.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_pwr.h)(0x5D7FBE25)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5EC77604)
+I (..\code\L610_TCP.h)(0x5F8DAC9F)
+I (..\code\stm32f3xx_it.h)(0x5F9BDEFE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5EC775FC)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5EC775FC)
+I (..\code\L610_Ali.h)(0x5F9C1F80)
+F (..\sql\stm32f3xx_ll_gpio.c)(0x5D7FBE25)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\code -I ..\sql -I ..\startup --C99-I.\RTE\_STM32F334R8-Nucleo-IC:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\22060\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32F334x8 -D_RTE_ -DSTM32F334x8 -DUSE_STM32F3XX_NUCLEO-o stm32f334r8-nucleo\stm32f3xx_ll_gpio.o --omf_browse stm32f334r8-nucleo\stm32f3xx_ll_gpio.crf --depend stm32f334r8-nucleo\stm32f3xx_ll_gpio.d)
+F (..\sql\stm32f3xx_ll_rcc.c)(0x5D7FBE25)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\code -I ..\sql -I ..\startup --C99-I.\RTE\_STM32F334R8-Nucleo-IC:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\22060\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32F334x8 -D_RTE_ -DSTM32F334x8 -DUSE_STM32F3XX_NUCLEO-o stm32f334r8-nucleo\stm32f3xx_ll_rcc.o --omf_browse stm32f334r8-nucleo\stm32f3xx_ll_rcc.crf --depend stm32f334r8-nucleo\stm32f3xx_ll_rcc.d)
+F (..\sql\stm32f3xx_ll_usart.c)(0x5D7FBE25)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\code -I ..\sql -I ..\startup --C99-I.\RTE\_STM32F334R8-Nucleo-IC:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\22060\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32F334x8 -D_RTE_ -DSTM32F334x8 -DUSE_STM32F3XX_NUCLEO-o stm32f334r8-nucleo\stm32f3xx_ll_usart.o --omf_browse stm32f334r8-nucleo\stm32f3xx_ll_usart.crf --depend stm32f334r8-nucleo\stm32f3xx_ll_usart.d)
+F (..\sql\stm32f3xx_ll_utils.c)(0x5D7FBE25)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\code -I ..\sql -I ..\startup --C99-I.\RTE\_STM32F334R8-Nucleo-IC:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\22060\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32F334x8 -D_RTE_ -DSTM32F334x8 -DUSE_STM32F3XX_NUCLEO-o stm32f334r8-nucleo\stm32f3xx_ll_utils.o --omf_browse stm32f334r8-nucleo\stm32f3xx_ll_utils.crf --depend stm32f334r8-nucleo\stm32f3xx_ll_utils.d)
+I (..\sql\stm32f3xx_ll_rcc.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f334x8.h)(0x5D7FBE25)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\sql\system_stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_utils.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_system.h)(0x5D7FBE25)
+I (..\sql\stm32f3xx_ll_pwr.h)(0x5D7FBE25)
+F (..\sql\system_stm32f3xx.c)(0x5D7FBE25)(-c --cpu Cortex-M4.fp.sp -D__EVAL -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ..\code -I ..\sql -I ..\startup --C99-I.\RTE\_STM32F334R8-Nucleo-IC:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\22060\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include-D__UVISION_VERSION="531" -D_RTE_ -DSTM32F334x8 -D_RTE_ -DSTM32F334x8 -DUSE_STM32F3XX_NUCLEO-o stm32f334r8-nucleo\system_stm32f3xx.o --omf_browse stm32f334r8-nucleo\system_stm32f3xx.crf --depend stm32f334r8-nucleo\system_stm32f3xx.d)
+I (..\sql\stm32f3xx.h)(0x5D7FBE25)
+I (..\sql\stm32f334x8.h)(0x5D7FBE25)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm4.h)(0x5E8ED122)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5EC775FC)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8ED122)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E8306C2)
+I (C:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8ED122)
+I (..\sql\system_stm32f3xx.h)(0x5D7FBE25)
+F (..\startup\startup_stm32f334x8.s)(0x5D7FBE25)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I.\RTE\_STM32F334R8-Nucleo-IC:\Users\22060\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\22060\AppData\Local\Arm\Packs\Keil\STM32F3xx_DFP\2.1.0\Drivers\CMSIS\Device\ST\STM32F3xx\Include--pd "__UVISION_VERSION SETA 531" --pd "_RTE_ SETA 1" --pd "STM32F334x8 SETA 1" --pd "_RTE_ SETA 1"--list startup_stm32f334x8.lst --xref -o stm32f334r8-nucleo\startup_stm32f334x8.o --depend stm32f334r8-nucleo\startup_stm32f334x8.d)

@@ -1,0 +1,18 @@
+--cpu=Cortex-M4.fp.sp
+"stm32f334r8-nucleo\stm32f3xx_it.o"
+"stm32f334r8-nucleo\usart.o"
+"stm32f334r8-nucleo\mian.o"
+"stm32f334r8-nucleo\l610_init.o"
+"stm32f334r8-nucleo\l610_tcp.o"
+"stm32f334r8-nucleo\l610_ali.o"
+"stm32f334r8-nucleo\esp8266.o"
+"stm32f334r8-nucleo\stm32f3xx_ll_gpio.o"
+"stm32f334r8-nucleo\stm32f3xx_ll_rcc.o"
+"stm32f334r8-nucleo\stm32f3xx_ll_usart.o"
+"stm32f334r8-nucleo\stm32f3xx_ll_utils.o"
+"stm32f334r8-nucleo\system_stm32f3xx.o"
+"stm32f334r8-nucleo\startup_stm32f334x8.o"
+--library_type=microlib --strict --scatter "STM32F334R8-Nucleo\STM32F334R8-Nucleo.sct"
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "STM32F334R8-Nucleo.map" -o STM32F334R8-Nucleo\STM32F334R8-Nucleo.axf
